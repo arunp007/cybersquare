@@ -1,0 +1,1 @@
+web: gunicorn cybersquare.wsgi --log-file -
